@@ -1,8 +1,8 @@
 # Review Analysis and Rating System
 
-## Assumptions
+## Setup
 
-Created through Google Colab and requires the library to be installed before running.
+This code has been tested through Google Colab and requires the library to be installed before running.
 
 ```bash
 !pip install transformers googletrans==4.0.0-rc1
