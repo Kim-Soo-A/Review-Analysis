@@ -9,9 +9,9 @@ This code has been tested through Google Colab and requires the library to be in
 ```
 
 ## Functions
-#### Review Generation: Read Korean reviews through txt file and translate them into English.
-#### Sentiment Analysis: Each review is analyzed to determine its sentimen.
-#### Rating System: Based on the sentiment analysis, give average stars by combining each review.
+**Review Generation**: Read Korean reviews through txt file and translate them into English.
+**Sentiment Analysis**: Each review is analyzed to determine its sentimen.
+**Rating System**: Based on the sentiment analysis, give average stars by combining each review.
 
 ### Example Results
 ![스크린샷 2024-12-07 184103](https://github.com/user-attachments/assets/fa1142ae-ae82-4fbc-aaae-acd4374726c2)
